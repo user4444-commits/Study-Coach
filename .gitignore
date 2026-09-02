@@ -1,0 +1,11 @@
+# Miljövariabler och hemligheter
+backend/.env
+
+# Python
+__pycache__/
+venv/
+*.pyc
+
+# Node/Next.js
+node_modules/
+.next/
