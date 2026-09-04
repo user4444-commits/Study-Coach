@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/0d182eec-22fb-4b49-a855-99565f638500
+
 # Study Coach
 AI driven study coach with an agentic workflow that leads the student through their 
 subjects. This is a simple version but still showcases the potential.
